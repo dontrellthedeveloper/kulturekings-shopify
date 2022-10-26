@@ -194,7 +194,7 @@ Project Link: [https://github.com/dontrellthedeveloper/kulturekings-shopify](htt
 [TailwindCSS-url]: https://tailwindcss.com/
 
 
-[Liquid]: https://img.shields.io/badge/liquid-a1a0a1?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAJkAAJkAAJkAAJlHcEwAAJkAAJkAAJkAAJkAAJkAAJkAAJkAAJkAAJkAAJkAAJkAAJmJTpCHAAAAEXRSTlM4QSJFAAkMPQUbeFMsW2NpaOgvc60AAABuSURBVHjaLY6FAcAgDAQfiBXff1kk9ND4gy7GbP7BNT7HnilRiP4HZPHl+Qf0eczjH+EUVi0FqbRTDv5qzzO3nDs+BmtoqYyQUoAKTBU/qgaKx4u7ESKB2MMeZJeh4RpJ5YnkiOOpTG4eTMT8swG2JgPb9HTYcgAAAABJRU5ErkJggg==&logoColor=fff
+[Liquid]: https://img.shields.io/badge/liquid-68bcdc?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAJkAAJkAAJkAAJlHcEwAAJkAAJkAAJkAAJkAAJkAAJkAAJkAAJkAAJkAAJkAAJkAAJmJTpCHAAAAEXRSTlM4QSJFAAkMPQUbeFMsW2NpaOgvc60AAABuSURBVHjaLY6FAcAgDAQfiBXff1kk9ND4gy7GbP7BNT7HnilRiP4HZPHl+Qf0eczjH+EUVi0FqbRTDv5qzzO3nDs+BmtoqYyQUoAKTBU/qgaKx4u7ESKB2MMeZJeh4RpJ5YnkiOOpTG4eTMT8swG2JgPb9HTYcgAAAABJRU5ErkJggg==&logoColor=fff
 [Liquid-url]: https://shopify.dev/api/liquid
 
 
